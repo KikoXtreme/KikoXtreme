@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kiril Valkov.
-- 👀 I’m interested in JavaScript and Web Development.
+- 👋 Hi, I’m {Kiril Valkov}.
+- 👀 I’m interested in ['JavaScript'] and ['Web Development'].
 - 🌱 I’m currently learning JavaScript @SoftUni.
 - 📫 How to reach me -> https://www.linkedin.com/in/kiril-valkov-26a75a37/
 
