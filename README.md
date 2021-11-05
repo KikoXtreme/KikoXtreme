@@ -1,7 +1,8 @@
-- 👋 Hi, I’m {'Kiril Valkov'}.
+- 👋 **Hi, I’m {'Kiril Valkov'}.**
+- ---
 - 👀 I’m interested in ['JavaScript'] and ['Web Development'].
-- 🌱 I’m currently learning JavaScript @SoftUni.
-- 📫 How to reach me / LinkedIn -> [{'Kiril Valkov'}](https://www.linkedin.com/in/kiril-valkov-26a75a37/)
+- 🌱 I’m currently learning JavaScript @[SoftUni](https://github.com/SoftUni).
+- 📫 How to reach me / LinkedIn -> [{'Kiril Valkov'}](https://www.linkedin.com/in/kiril-valkov-26a75a37/).
 
 <!---
 KikoXtreme/KikoXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
