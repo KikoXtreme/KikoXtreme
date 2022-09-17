@@ -3,7 +3,7 @@
 - 👀 I’m interested in ['JavaScript'] and ['Web Development'].
 - 🌱 I’m currently learning JavaScript @[SoftUni](https://github.com/SoftUni).
 - 📫 How to reach me / LinkedIn -> [{'Kiril Valkov'}](https://www.linkedin.com/in/kiril-valkov-26a75a37/).
-- 💻 Technologies: ⬇️💽
+- 💻 Technologies:
 
 <hr>
 <img align="left" alt="javascriptIcon" width="35px" src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>
