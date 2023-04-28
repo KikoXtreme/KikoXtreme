@@ -2,7 +2,7 @@
 - ---
 - 👀 I’m interested in ['JavaScript'], ['React'] and ['Web Development'].
 - 🌱 I've just finished my ['JS Web Development'] training @[SoftUni](https://github.com/SoftUni).
-- 🖱️ I'm currently improving my JS and Web Development skills.
+- 🖱️ I'm currently improving my JS and Web Development Skills.
 - 📫 How to reach me / LinkedIn -> [{'Kiril Valkov'}](https://www.linkedin.com/in/kiril-valkov-26a75a37/).
 - 💻 Technologies:
 
@@ -15,6 +15,10 @@
 <img align="left" alt="nodejsIcon" width="35px" src="https://img.icons8.com/fluency/344/node-js.png"/>
 <img align="left" alt="mongodbIcon" width="35px" src="https://img.icons8.com/color/344/mongodb.png"/>
 <img align="left" alt="vscodeIcon" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+<br />
+<hr>
+
+[![](https://visitcount.itsvg.in/api?id=KikoXtreme&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!---
 KikoXtreme/KikoXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
