@@ -15,6 +15,7 @@
 <img align="left" alt="angularIcon" width="35px" src="https://img.icons8.com/color/344/angularjs.png"/>
 <img align="left" alt="nodejsIcon" width="35px" src="https://img.icons8.com/fluency/344/node-js.png"/>
 <img align="left" alt="mongodbIcon" width="35px" src="https://img.icons8.com/color/344/mongodb.png"/>
+<img align="left" alt="materialUiIcon" width="35px" src="https://img.icons8.com/color/48/material-ui.png"/>
 <img align="left" alt="vscodeIcon" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 <br />
 <hr>
