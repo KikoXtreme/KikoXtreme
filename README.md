@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m {'Kiril Valkov'}.**
 - ---
-- 👀 I’m interested in ['JavaScript'], ['React'] and ['Web Development'].
-- 🌱 I've just finished my ['JS Web Development'] training @[SoftUni](https://github.com/SoftUni).
+- 👀 I’m interested in ['JavaScript'], ['TypeScript'], ['React'] and ['Web Development'].
+- 🌱 I've finished ['JS Web Development'] training @[SoftUni](https://github.com/SoftUni).
 - 🖱️ I'm currently improving my JS, TS and Web Development Skills.
 - 📫 How to reach me / LinkedIn -> [{'Kiril Valkov'}](https://www.linkedin.com/in/kiril-valkov-26a75a37/).
 - 💻 Technologies:
