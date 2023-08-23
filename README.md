@@ -21,6 +21,7 @@
 <hr>
 
 [![](https://visitcount.itsvg.in/api?id=KikoXtreme&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KikoXtreme&label=Total%20Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
 KikoXtreme/KikoXtreme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
