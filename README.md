@@ -15,8 +15,11 @@
 <img align="left" alt="angularIcon" width="35px" src="https://img.icons8.com/color/344/angularjs.png"/>
 <img align="left" alt="nodejsIcon" width="35px" src="https://img.icons8.com/fluency/344/node-js.png"/>
 <img align="left" alt="mongodbIcon" width="35px" src="https://img.icons8.com/color/344/mongodb.png"/>
+<img align="left" alt="sass" width="35" src="https://img.icons8.com/color/48/sass.png""/>
+<img align="left" alt="bootstrap" width="35px" src="https://img.icons8.com/color/48/bootstrap--v2.png"/>
 <img align="left" alt="materialUiIcon" width="35px" src="https://img.icons8.com/color/48/material-ui.png"/>
 <img align="left" alt="vscodeIcon" width="35px" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="figma" width="35px" src="https://img.icons8.com/office/40/figma.png"/>
 <br />
 <hr>
 
